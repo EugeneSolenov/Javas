@@ -1,0 +1,1 @@
+start "Rehabilitation Center" cmd /k "cd /d c:\Users\Admin\Desktop\coop && docker compose run --rm app"
